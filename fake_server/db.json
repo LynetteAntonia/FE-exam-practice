@@ -1,0 +1,552 @@
+{
+  "users": [
+    {
+      "phone": "081214186000",
+      "email": "",
+      "username": "ryandefryan",
+      "password": "123123123",
+      "roles": "user",
+      "id": 1
+    },
+    {
+      "phone": "087822004012",
+      "email": "",
+      "username": "ryan20",
+      "password": "123123123",
+      "roles": "user",
+      "id": 2
+    },
+    {
+      "phone": "",
+      "email": "ryan.fandy@gmail.com",
+      "username": "ryan2020",
+      "password": "321321321",
+      "roles": "user",
+      "id": 3
+    },
+    {
+      "phone": "",
+      "email": "test@gmail.com",
+      "username": "",
+      "password": "",
+      "roles": "user",
+      "id": 4
+    },
+    {
+      "phone": "",
+      "email": "agil.antonio123@gmail.com",
+      "username": "",
+      "password": "123",
+      "roles": "user",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Set Sofa Bran 2+1",
+      "brand": "Bran",
+      "category": "Sofa",
+      "stock": 4221,
+      "price": 3266100,
+      "diskon": 10,
+      "weight": 10000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_sofa_bran_2_1_dudukan.png?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa2d_bran_elodie_blue_1_2-1_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa_minimalis_bran_2_dudukan_elodie_blue_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 2,
+      "name": "Set Sofa Mutoyo 2+1",
+      "brand": "Mutoyo",
+      "category": "Sofa",
+      "stock": 11212,
+      "price": 5318100,
+      "diskon": 0,
+      "weight": 5000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/5/4/5472_x_2736_016.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/t/a/taby_3_seater_sofa_set__ruby__11.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/t/a/taby_3_seater_sofa_set__ruby__16.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 3,
+      "name": "Set Sofa Hughes 2+1",
+      "brand": "Hughes",
+      "category": "Sofa",
+      "stock": 3221,
+      "price": 6315000,
+      "diskon": 5,
+      "weight": 25000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/h/u/hughes_3_seater_sofa_set__grey__0.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/s/o/sofa1d_hughes_1_seater_sofa_limefizz_1_2-1_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/h/u/hughes_2_seater_sofa__limefizz__0_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 4,
+      "name": "Set Kursi Santai Bran",
+      "brand": "Bran",
+      "category": "Sofa",
+      "stock": 3,
+      "price": 2315000,
+      "diskon": 0,
+      "weight": 5000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/b/a/bangkuo_bran_elodiemidgrey_a_21_hires.jpg?auto=format&w=1678&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/b/a/bangkuo_bran_elodiemidgrey_3.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/b/a/bangkuo_bran_elodiemidgrey_2.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 5,
+      "name": "Set Kursi Santai Toril",
+      "brand": "Toril",
+      "category": "Sofa",
+      "stock": 193,
+      "price": 3300000,
+      "diskon": 0,
+      "weight": 8000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_kursi_santai_toril.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_kursi_santai_toril_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/t/o/toril_ottoman_custard_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 6,
+      "name": "Meja Tamu Chloe - Set Of 3",
+      "brand": "Chloe",
+      "category": "Meja Tamu",
+      "stock": 488,
+      "price": 1700000,
+      "diskon": 0,
+      "weight": 3000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/c/h/chloe_coffee_table_context1_7.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/c/h/chloe_coffee_table_7.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/c/h/chloe_coffee_table_context2_6.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 7,
+      "name": "Meja Tamu Oolong",
+      "brand": "Oolong",
+      "category": "Meja Tamu",
+      "stock": 443,
+      "price": 2450000,
+      "diskon": 15,
+      "weight": 9000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/w/e/web_dsc08436.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/2/5/25_2_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/2/1/21_3.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 8,
+      "name": "Meja Tamu Tromso",
+      "brand": "Tromso",
+      "category": "Meja Tamu",
+      "stock": 14,
+      "price": 945000,
+      "diskon": 0,
+      "weight": 2000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/6/1/6170.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/7/0/7047.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/i/m/img_9848.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 9,
+      "name": "Meja Tamu Salvador",
+      "brand": "Salvador",
+      "category": "Meja Tamu",
+      "stock": 588,
+      "price": 1619000,
+      "diskon": 0,
+      "weight": 1000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/m/e/mejas_salvador_a_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/m/e/mejat_salvador_1_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/m/e/mejat_salvador_3_21_hires.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 10,
+      "name": "Meja Tamu Ellis",
+      "brand": "Ellis",
+      "category": "Meja Tamu",
+      "stock": 333,
+      "price": 1799000,
+      "diskon": 15,
+      "weight": 5000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/e/l/elis_3_seater_sofa__blue_jay__0_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/c/o/Coltrane_Coffee_Table_5.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/c/o/Coltrane_Coffee_Table_5.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 11,
+      "name": "Lemari Bufet Mikku",
+      "brand": "Mikku",
+      "category": "Bufet",
+      "stock": 398,
+      "price": 2500000,
+      "diskon": 10,
+      "weight": 10000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku_cabinet-_3_.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku_cabinet-_17_.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku_chest_drawers-_9__1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 12,
+      "name": "Lemari Bufet Tinggi Mikku",
+      "brand": "Mikku",
+      "category": "Bufet",
+      "stock": 89,
+      "price": 2225000,
+      "diskon": 3,
+      "weight": 10000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku-high-sideboard-_9_.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku-high-sideboard-_25_.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku-high-sideboard-_20_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    },
+    {
+      "id": 13,
+      "name": "Lemari Bufet Onyx",
+      "brand": "Onyx",
+      "category": "Bufet",
+      "stock": 15,
+      "price": 2225000,
+      "diskon": 0,
+      "weight": 10000,
+      "image1": "https://cdn-m2.fabelio.com/catalog/product/k/a/kabinetp_onyx_a_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image2": "https://cdn-m2.fabelio.com/catalog/product/k/a/kabinetp_onyx_a_ori_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3",
+      "image3": "https://cdn-m2.fabelio.com/catalog/product/k/a/kabinetp_onyx_14_21_hires_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+    }
+  ],
+  "carts": [
+    {
+      "idProduct": "12",
+      "idUser": "5",
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "idProduct": "3",
+      "idUser": "5",
+      "quantity": 151,
+      "id": 2
+    }
+  ],
+  "transactions": [
+    {
+      "idUser": "3",
+      "status": "Paid",
+      "createdAt": "09-Mar-2021 13:21:45",
+      "total": 9798300,
+      "detail": [
+        {
+          "productName": "Set Sofa Bran 2+1",
+          "productPrice": 3266100,
+          "productDiscount": 10,
+          "productQuantity": 3,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_sofa_bran_2_1_dudukan.png?auto=format&w=1678&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "idUser": "3",
+      "status": "Paid",
+      "createdAt": "09-Mar-2021 14:14:49",
+      "total": 6315000,
+      "detail": [
+        {
+          "productName": "Set Sofa Hughes 2+1",
+          "productPrice": 6315000,
+          "productDiscount": 5,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/h/u/hughes_3_seater_sofa_set__grey__0.jpg?auto=format&w=1678&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "idUser": "3",
+      "status": "Unpaid",
+      "createdAt": "09-Mar-2021 14:37:16",
+      "total": 5318100,
+      "detail": [
+        {
+          "productName": "Set Sofa Mutoyo 2+1",
+          "productPrice": 5318100,
+          "productDiscount": 0,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/5/4/5472_x_2736_016.jpg?auto=format&w=1678&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "idUser": "3",
+      "status": "Paid",
+      "createdAt": "09-Mar-2021 14:40:09",
+      "total": 3266100,
+      "detail": [
+        {
+          "productName": "Set Sofa Bran 2+1",
+          "productPrice": 3266100,
+          "productDiscount": 10,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_sofa_bran_2_1_dudukan.png?auto=format&w=1678&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "idUser": "3",
+      "status": "Paid",
+      "createdAt": "10-Mar-2021 04:59:05",
+      "total": 4211100,
+      "detail": [
+        {
+          "productName": "Set Sofa Bran 2+1",
+          "productPrice": 3266100,
+          "productDiscount": 10,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_sofa_bran_2_1_dudukan.png?auto=format&w=1678&ixlib=react-9.0.3"
+        },
+        {
+          "productName": "Meja Tamu Tromso",
+          "productPrice": 945000,
+          "productDiscount": 0,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/6/1/6170.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "idUser": "3",
+      "status": "Paid",
+      "createdAt": "10-Mar-2021 11:00:50",
+      "total": 6315000,
+      "detail": [
+        {
+          "productName": "Set Sofa Hughes 2+1",
+          "productPrice": 6315000,
+          "productDiscount": 5,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/h/u/hughes_3_seater_sofa_set__grey__0.jpg?auto=format&w=1678&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "idUser": "5",
+      "status": "Paid",
+      "createdAt": "13-Mar-2021 23:48:41",
+      "total": 8048000,
+      "detail": [
+        {
+          "productName": "Meja Tamu Ellis",
+          "productPrice": 1799000,
+          "productDiscount": 15,
+          "productQuantity": 2,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/e/l/elis_3_seater_sofa__blue_jay__0_1.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        },
+        {
+          "productName": "Lemari Bufet Tinggi Mikku",
+          "productPrice": 2225000,
+          "productDiscount": 3,
+          "productQuantity": 2,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku-high-sideboard-_9_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "idUser": "5",
+      "status": "Paid",
+      "createdAt": "13-Mar-2021 22:53:35",
+      "total": 4450000,
+      "detail": [
+        {
+          "productName": "Lemari Bufet Tinggi Mikku",
+          "productPrice": 2225000,
+          "productDiscount": 3,
+          "productQuantity": 2,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku-high-sideboard-_9_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "idUser": "5",
+      "status": "Paid",
+      "createdAt": "13-Mar-2021 23:32:34",
+      "total": 5525000,
+      "detail": [
+        {
+          "productName": "Set Kursi Santai Toril",
+          "productPrice": 3300000,
+          "productDiscount": 0,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_kursi_santai_toril.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        },
+        {
+          "productName": "Lemari Bufet Tinggi Mikku",
+          "productPrice": 2225000,
+          "productDiscount": 3,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku-high-sideboard-_9_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "idUser": "5",
+      "status": "Paid",
+      "createdAt": "13-Mar-2021 23:52:37",
+      "total": 2225000,
+      "detail": [
+        {
+          "productName": "Lemari Bufet Tinggi Mikku",
+          "productPrice": 2225000,
+          "productDiscount": 3,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku-high-sideboard-_9_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "idUser": "5",
+      "status": "Paid",
+      "createdAt": "14-Mar-2021 01:48:36",
+      "total": 2225000,
+      "detail": [
+        {
+          "productName": "Lemari Bufet Tinggi Mikku",
+          "productPrice": 2225000,
+          "productDiscount": 3,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku-high-sideboard-_9_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "idUser": "5",
+      "status": "cancelled",
+      "createdAt": "13-Mar-2021 23:33:11",
+      "total": 15954300,
+      "detail": [
+        {
+          "productName": "Set Sofa Mutoyo 2+1",
+          "productPrice": 5318100,
+          "productDiscount": 0,
+          "productQuantity": 3,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/5/4/5472_x_2736_016.jpg?auto=format&w=1678&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "idUser": "5",
+      "status": "Paid",
+      "createdAt": "13-Mar-2021 23:35:52",
+      "total": 5766100,
+      "detail": [
+        {
+          "productName": "Set Sofa Bran 2+1",
+          "productPrice": 3266100,
+          "productDiscount": 10,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_sofa_bran_2_1_dudukan.png?auto=format&w=1678&ixlib=react-9.0.3"
+        },
+        {
+          "productName": "Lemari Bufet Mikku",
+          "productPrice": 2500000,
+          "productDiscount": 10,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku_cabinet-_3_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "idUser": "5",
+      "status": "Paid",
+      "createdAt": "14-Mar-2021 01:49:10",
+      "total": 4200000,
+      "detail": [
+        {
+          "productName": "Meja Tamu Chloe - Set Of 3",
+          "productPrice": 1700000,
+          "productDiscount": 0,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/c/h/chloe_coffee_table_context1_7.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        },
+        {
+          "productName": "Lemari Bufet Mikku",
+          "productPrice": 2500000,
+          "productDiscount": 10,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku_cabinet-_3_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "idUser": "5",
+      "status": "cancelled",
+      "createdAt": "14-Mar-2021 01:50:06",
+      "total": 3300000,
+      "detail": [
+        {
+          "productName": "Set Kursi Santai Toril",
+          "productPrice": 3300000,
+          "productDiscount": 0,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_kursi_santai_toril.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "idUser": "5",
+      "status": "Unpaid",
+      "createdAt": "14-Mar-2021 01:51:57",
+      "total": 2225000,
+      "detail": [
+        {
+          "productName": "Lemari Bufet Tinggi Mikku",
+          "productPrice": 2225000,
+          "productDiscount": 3,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku-high-sideboard-_9_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "idUser": "5",
+      "status": "cancelled",
+      "createdAt": "12-Mar-2021 01:57:27",
+      "total": 11806100,
+      "detail": [
+        {
+          "productName": "Set Sofa Bran 2+1",
+          "productPrice": 3266100,
+          "productDiscount": 10,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/s/e/set_sofa_bran_2_1_dudukan.png?auto=format&w=1678&ixlib=react-9.0.3"
+        },
+        {
+          "productName": "Set Sofa Hughes 2+1",
+          "productPrice": 6315000,
+          "productDiscount": 5,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/h/u/hughes_3_seater_sofa_set__grey__0.jpg?auto=format&w=1678&ixlib=react-9.0.3"
+        },
+        {
+          "productName": "Lemari Bufet Tinggi Mikku",
+          "productPrice": 2225000,
+          "productDiscount": 3,
+          "productQuantity": 1,
+          "productImage": "https://cdn-m2.fabelio.com/catalog/product/m/i/mikku-high-sideboard-_9_.jpg?auto=format&h=640&ixlib=react-9.0.3"
+        }
+      ],
+      "id": 17
+    }
+  ]
+}

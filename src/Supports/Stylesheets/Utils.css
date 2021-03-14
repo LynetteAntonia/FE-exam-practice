@@ -1,0 +1,145 @@
+:root{
+    --primary : #ffe227;
+    --secondary: #19456b;
+    --third: #007965;
+    --dark: #252525;
+    --light: #f1f1f1;
+    --danger: #ec4646;
+    --light-grey: #f4f9f9;
+    --dark-grey: #dddddd;
+}
+
+/* Background Color */
+.funniture-bg-primary{
+    background-color: var(--primary);
+}
+
+.funniture-bg-secondary{
+    background-color: var(--secondary);
+}
+
+.funniture-bg-third{
+    background-color: var(--third);
+}
+
+.funniture-bg-dark{
+    background-color: var(--dark);
+}
+
+.funniture-bg-light{
+    background-color: var(--light);
+}
+
+.funniture-bg-danger{
+    background-color: var(--danger);
+}
+
+.funniture-bg-light-grey{
+    background-color: var(--light-grey);
+}
+
+.funniture-bg-dark-grey{
+    background-color: var(--dark-grey);
+}
+
+
+
+/* Font Color */
+.funniture-primary{
+    color: var(--primary)
+}
+
+.funniture-secondary{
+    color: var(--secondary)
+}
+
+.funniture-third{
+    color: var(--third)
+}
+
+.funniture-dark{
+    color: var(--dark)
+}
+
+.funniture-light{
+    color: var(--light)
+}
+
+.funniture-danger{
+    color: var(--danger)
+}
+
+.funniture-light-grey{
+    color: var(--light-grey)
+}
+
+.funniture-dark-grey{
+    color: var(--dark-grey)
+}
+
+
+
+/* Font-Size */
+.funniture-font-size-10{
+    font-size: 10px;
+}
+
+.funniture-font-size-12{
+    font-size: 12px;
+}
+
+.funniture-font-size-14{
+    font-size: 14px;
+}
+
+.funniture-font-size-16{
+    font-size: 16px;
+}
+
+.funniture-font-size-18{
+    font-size: 18px;
+}
+
+.funniture-font-size-20{
+    font-size: 20px;
+}
+
+.funniture-font-size-22{
+    font-size: 22px;
+}
+
+.funniture-font-size-25{
+    font-size: 25px;
+}
+
+.funniture-font-size-30{
+    font-size: 30px;
+}
+
+.funniture-font-size-35{
+    font-size: 35px;
+}
+
+.funniture-font-size-70{
+    font-size: 70px;
+}
+
+
+
+/* Link */
+.funniture-link{
+    color: inherit;
+}
+
+.funniture-link:hover{
+    color: inherit;
+    text-decoration: none;
+}
+
+.funniture-clickable-element{
+    cursor: pointer;
+    -webkit-user-select: none; /* Safari */        
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* IE10+/Edge */
+    user-select: none; /* Standard */
+}
